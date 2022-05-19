@@ -2,7 +2,7 @@
 
 **I'm Sylvain**, a postdoctoral researcher in tropical tree ecology and evolution. I did a PhD on genotype-environment interactions in shaping intraspecific variability in tropical tree species, and explored its impact on the origin and maintenance of biodiversity. I am currently involved in the TreeMutation project which focuses on mutations in the canopy of tropical trees. More info at https://sylvainschmitt.netlify.app/.
 
-
+![](https://raw.githubusercontent.com/sylvainschmitt/website/master/assets/media/head.jpg)
 
 <!--
 **sylvainschmitt/sylvainschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
