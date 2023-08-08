@@ -1,6 +1,9 @@
 ### 👋 Hi there!
 
-**I'm Sylvain**, a postdoctoral researcher in tropical tree ecology and evolution. I did a PhD on genotype-environment interactions in shaping intraspecific variability in tropical tree species, and explored its impact on the origin and maintenance of biodiversity. I am currently involved in the TreeMutation project which focuses on mutations in the canopy of tropical trees. More info at https://sylvainschmitt.netlify.app/.
+**I'm Sylvain**, soon to be an ecologist at CIRAD (https://www.cirad.fr), a French research center working with developing countries on environmental and development issues. 
+I am currently conducting research into modeling the joint effect of climate change and anthropogenic disturbance on the dynamics of Amazonian tropical forests.  
+
+More info at https://sylvainschmitt.netlify.app/.
 
 ![](https://raw.githubusercontent.com/sylvainschmitt/website/master/assets/media/head.jpg)
 
