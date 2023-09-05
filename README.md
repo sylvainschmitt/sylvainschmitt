@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-**I'm Sylvain**, soon to be an ecologist at CIRAD (https://www.cirad.fr), a French research center working with developing countries on environmental and development issues. 
+**I'm Sylvain**, an ecologist at CIRAD (https://www.cirad.fr), a French research center working with developing countries on environmental and development issues. 
 I am currently conducting research into modeling the joint effect of climate change and anthropogenic disturbance on the dynamics of Amazonian tropical forests.  
 
 More info at https://sylvainschmitt.netlify.app/.
